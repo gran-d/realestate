@@ -1,0 +1,17 @@
+# Секреты — никогда не коммитить
+.env
+
+# Бинарник после go build
+server
+realestate
+
+# Swagger генерирует автоматически
+docs/
+
+# Docker
+.dockerignore
+
+# IDE
+.vscode/
+.idea/
+*.exe

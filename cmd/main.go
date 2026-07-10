@@ -1,13 +1,13 @@
 // @title           Real Estate API
 // @version         1.0
-// @description     Мини-Циан: объявления о недвижимости на Go
+// @description     объявления о недвижимости на Go
 // @host            localhost:3000
 // @BasePath        /api/v1
 
 // @securityDefinitions.apikey  BearerAuth
 // @in                          header
 // @name                        Authorization
-// @description                 Вставь: Bearer {токен из /auth/login}
+// @description                 Bearer
 
 package main
 

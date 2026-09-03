@@ -1,4 +1,4 @@
-# Real Estate API (Мини-Циан)
+# real estate api
 
 REST API для платформы недвижимости. Учебный проект на Go.
 

@@ -1,4 +1,4 @@
-// @title           Real Estate API
+// @title           real estate api
 // @version         1.0
 // @description     объявления о недвижимости на Go
 // @host            localhost:3000
